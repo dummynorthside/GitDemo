@@ -1,0 +1,3 @@
+doing stash practice - using checkout instead
+do more
+Making changes to the approachFile
